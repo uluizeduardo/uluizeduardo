@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Eu sou Luiz Eduardo 
+#### Sou Luiz  Eduardo, um dev iniciante com  objetivo de me tornar um desenvolvedor Full Stack
  <div>
   <a href="https://github.com/uluizeduardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uluizeduardo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
