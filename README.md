@@ -1,6 +1,6 @@
-### Olá 👋
+### Hi there 👋
 
-#### Sou Luiz  Eduardo, um dev iniciante com  objetivo de me tornar um desenvolvedor Full Stack
+#### I'm Luiz, i'm software developer at MV Systems. I’m currently working with Java, PLSQL in the back-end
  <div>
   <a href="https://github.com/uluizeduardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uluizeduardo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,7 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Luiz-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Luiz-Ajs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
