@@ -10,7 +10,7 @@
 
  ## Contact
 
--   :white_check_mark: [LinkedIn](https://www.linkedin.com/in/luiz-developer-java/)
+-   :white_check_mark: LinkedIn: [https://www.linkedin.com/in/uluizeduardo/](https://www.linkedin.com/in/luiz-developer-java/)
 -   📞 Phone: +55 (81) 99241-3236
 -   📧 Email:  [luizprogramadorjava@gmail.com](luizprogramadorjava@gmail.com)
 
