@@ -1,53 +1,54 @@
- ### Hi there 👋
- 
- #### I'm Luiz, I'm a software developer at MV Systems. I’m currently working with Java, and PLSQL in the back end
+# Hi there, I'm Luiz Eduardo 👋 
 
-  <a href="https://github.com/uluizeduardo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=uluizeduardo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluizeduardo&layout=compact&langs_count=16&theme=chartreuse-dark"/>
- 
- #
+I am a **Software Developer** with over 5 years of experience, focused on building scalable, high-performance distributed systems. Currently, I'm contributing to financial solutions within the banking sector.
 
- ## Contact
+---
 
--   :white_check_mark: LinkedIn: [https://www.linkedin.com/in/uluizeduardo/](https://www.linkedin.com/in/luiz-developer-java/)
--   📞 Phone: +55 (81) 99241-3236
--   📧 Email:  [luizprogramadorjava@gmail.com](luizprogramadorjava@gmail.com)
+### 🛠 Professional Toolkit
 
-#
+**Backend & Architecture**
+- **Languages:** Java (17/21), PL/SQL.
+- **Frameworks:** Spring Boot 3.4 (Security, Cloud, WebFlux), Netflix OSS.
+- **Architecture:** Clean Architecture, SOLID, DDD, and Microservices.
+- **Database:** Oracle, PostgreSQL, MySQL, and migrations with Flyway.
+- **Messaging:** Apache Kafka, RabbitMQ.
 
-## Skills and Tools
+**Frontend & Mobile**
+- **Frameworks:** Angular 19+ (PWA Focus).
+- **Mobile:** Flutter & Firebase for serverless applications.
 
-![Java](https://img.shields.io/badge/Java-E2322C?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-0078D7?style=for-the-badge&logo=data-lombok&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-F80000?style=for-the-badge&logo=flyway&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71604?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-0077C2?style=for-the-badge&logo=xml&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-B0B0B0?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=mock-the-unmockable&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-5C3EFF?style=for-the-badge&logo=code-branch&logoColor=white)
+**DevOps & Tools**
+- **Infrastructure:** Docker, Colima, AWS.
+- **CLI:** Advanced Unix/Linux (Debian/macOS).
 
-#
+---
 
-## 🌟 Open Source Contributions
+### 🏗 Featured Projects
 
- [BuildCLI](https://github.com/BuildCLI/BuildCLI)
+#### 💈 [Salon Manager](https://github.com/uluizeduardo/salon-manager)
+A 100% mobile-first Progressive Web App for barbershop management.
+- **Stack:** Angular 19, Java 21, Spring Boot 3.4.
+- **Focus:** Optimized UX for mobile devices and high availability.
 
-- Description: BuildCLI is a command-line tool (CLI) for managing and automating common tasks in Java project development.
-- License: MIT
-- Technologies:
+#### 🛠 [BuildCLI](https://github.com/BuildCLI/BuildCLI)
+Open-source command-line tool designed to automate repetitive tasks in the Java development lifecycle.
+- **Status:** Active development & maintenance.
 
-![Java](https://img.shields.io/badge/Java-E2322C?style=for-the-badge&logo=java&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71604?style=for-the-badge&logo=apache-maven&logoColor=white)
-#
+---
 
+### 📊 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uluizeduardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluizeduardo&layout=compact&langs_count=10&theme=radical"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 **LinkedIn:** [/in/uluizeduardo](https://www.linkedin.com/in/uluizeduardo/)
+- 📧 **Email:** luizprogramadorjava@gmail.com
+- 📱 **Telegram/WhatsApp:** +55 (81) 99241-3236
+
+---
+*Seniority is not just about years; it's about the problems you've solved.*
